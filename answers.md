@@ -83,4 +83,24 @@ Changes to be committed:
 Answer 7:
 On branch master
 nothing to commit, working directory clean
+Answer 8:
+commit 44405a254cb1229c125b43f3cccae1eed2d1556a
+Author: Hope Bowden <hb295315@ohio.edu>
+Date:   Wed May 13 13:00:32 2020 -0400
+
+    Initial commit
+Answer 9:
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Answer 9: The changes were not made in my local directory
+Answer 10: There is an error message due to the fact the changes were not made locally
+and these changes need to be integrated into the local file.
+Answer 11: The changes were now added to my README file
 
