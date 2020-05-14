@@ -103,4 +103,4 @@ Answer 9: The changes were not made in my local directory
 Answer 10: There is an error message due to the fact the changes were not made locally
 and these changes need to be integrated into the local file.
 Answer 11: The changes were now added to my README file
-
+Answer 12: .  ..  .git  .gitignore  README.md
